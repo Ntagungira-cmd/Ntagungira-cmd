@@ -17,6 +17,5 @@ I am a fullstack web developer.I am proficent in JavaScript and  its frameworks 
 [![GitHub Streak](https://ntagungira.herokuapp.com?user=Ntagungira-cmd&date_format=M%20j%5B%2C%20Y%5D&show_icons=true&hide_border=true&theme=tokyonight)](https://git.io/streak-stats)
 |Top Languages I use |My overall stats|
 |--------------------|------------------|
-|![Nkubito Pacis's github stats](https://github-readme-stats.vercel.app/api?username=Ntagungira-cmd&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)|
-|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ntagungira-cmd&langs_count=10&hide_border=true&theme=tokyonight&layout=compact)|
+|![Ali's github stats](https://github-readme-stats.vercel.app/api?username=Ntagungira-cmd&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ntagungira-cmd&langs_count=10&hide_border=true&theme=tokyonight&layout=compact)|
 
