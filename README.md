@@ -7,7 +7,7 @@ I am a fullstack web developer.I am proficent in JavaScript and  its frameworks 
 
 ### Reach Out on:
 [![Mail Badge](https://img.shields.io/badge/-@ntagungiraali-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ntagungiraali/) 
-[![Mail Badge](https://img.shields.io/badge/-Ntagungira Ali-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ntagungiraali@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-Ntagungiraali-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ntagungiraali@gmail.com)
 
 
 #### Top Technologies & Tools I am profiecient in.
