@@ -15,7 +15,8 @@ I am a fullstack web developer.I am proficent in JavaScript and  its frameworks 
 [![Mongodb Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![Node Js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#) [![Express Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![ReactT Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) [![Next Js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) [![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#)
 ### Statistics:
 [![GitHub Streak](https://ntagungira.herokuapp.com?user=Ntagungira-cmd&date_format=M%20j%5B%2C%20Y%5D&show_icons=true&hide_border=true&theme=tokyonight)](https://git.io/streak-stats)
-|Top Languages I use       |
-|--------------------------|
+|Top Languages I use |My overall stats|
+|--------------------|------------------|
+|![Nkubito Pacis's github stats](https://github-readme-stats.vercel.app/api?username=Ntagungira-cmd&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)|
 |![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ntagungira-cmd&langs_count=10&hide_border=true&theme=tokyonight&layout=compact)|
 
