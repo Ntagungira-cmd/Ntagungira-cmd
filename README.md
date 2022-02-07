@@ -6,7 +6,7 @@ I am a fullstack web developer.I am proficent in JavaScript and  its frameworks 
 - ⚡ Hobby: I enjoy Gaming 🎮
 
 ### Reach Out on:
-[![Mail Badge](https://img.shields.io/badge/-@stellan_011-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ntagungiraali/) [![Mail Badge](https://img.shields.io/badge/-Ntagungira Ali-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ntagungiraali@.com)
+[![Mail Badge](https://img.shields.io/badge/-@stellan_011-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ntagungiraali/) [![Mail Badge](https://img.shields.io/badge/-Ntagungira Ali-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ntagungiraali@gmail.com)
 
 
 #### Top Technologies & Tools I am profiecient in.
