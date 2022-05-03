@@ -17,7 +17,6 @@ I am a fullstack web developer.I am proficent in JavaScript and  its frameworks 
 [![Mongodb Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![Node Js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#) [![Express Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![ReactT Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) [![Next Js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) [![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#)
 ### Statistics:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ntagungira-cmd&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<!-- [![GitHub Streak](https://ntagungira.herokuapp.com?user=ntagungira-cmd&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
 |Top Languages I use |My overall stats|
 |--------------------|------------------| 
