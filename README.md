@@ -1,7 +1,7 @@
 ### NTAGUNGIRA ALI
 ---------------------------------------------------------------------------------------
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
-I am a fullstack web developer(Backend Heavy).I am proficient in JavaScript and  its frameworks and I use them in My projects daily, I am also competent in java and I am currently working in Spring boot.
+I am a fullstack web developer(Backend Heavy).I am proficient in JavaScript and  its frameworks and I use them in my projects daily, I am also competent in java and I am currently working in Spring boot.
 
 - 🔭 I’m currently working on [Umwezi](https://umwezimediaconsult.vercel.app/)<br>
 - 🌱 I’m currently learning Python
