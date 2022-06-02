@@ -4,7 +4,7 @@
 I am a fullstack web developer(Backend Heavy).I am proficient in JavaScript and  its frameworks and I use them in my projects daily, I am also competent in java and Springboot(SpringMVC) framework.
 
 - 🔭 I’m currently working on [Umwezi](https://umwezimediaconsult.vercel.app/)<br>
-- 🌱 I’m currently learning Python
+- 🌱 I’m learning Python
 - ⚡ Hobby: I enjoy Gaming 🎮
 
 ### Reach Out on:
