@@ -1,11 +1,13 @@
 ### NTAGUNGIRA ALI
 ---------------------------------------------------------------------------------------
 #### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">
-I am a fullstack web developer(Backend Heavy).I am proficient in JavaScript and  its frameworks and I use them in my projects daily, I am also competent in java and Springboot(SpringMVC) framework.
+I am a fullstack web developer(Backend Heavy).I am proficient in JavaScript and its frameworks like Nest and I use them in my projects daily, I am also competent in java and Springboot(SpringMVC) framework.
 
-- 🔭 I’m currently working on [Umwezi](https://umwezimediaconsult.vercel.app/)<br>
 - 🌱 I’m learning Python
 - ⚡ Hobby: I enjoy Gaming 🎮
+
+###Companies I have worked for:
+Umwezi Meadia Consult [Umwezi](https://umwezi.rw/)<br>
 
 ### Reach Out on:
 [![Mail Badge](https://img.shields.io/badge/-@ntagungiraali-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ntagungiraali/) 
