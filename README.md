@@ -6,8 +6,8 @@ I am a fullstack web developer(Backend Heavy).I am proficient in JavaScript and 
 - 🌱 I’m learning Python
 - ⚡ Hobby: I enjoy Gaming 🎮
 
-###Companies I have worked for:
-Umwezi Meadia Consult [Umwezi](https://umwezi.rw/)<br>
+### Companies I have worked for:
+- Umwezi Meadia Consult [Umwezi](https://umwezi.rw/)<br>
 
 ### Reach Out on:
 [![Mail Badge](https://img.shields.io/badge/-@ntagungiraali-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ntagungiraali/) 
