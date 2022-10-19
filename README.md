@@ -8,7 +8,6 @@ I am a fullstack web developer(Backend Heavy).I am proficient in JavaScript and 
 
 ### Companies I have worked for:
 - Umwezi Meadia Consult [Umwezi](https://umwezi.rw/)<br>
-- Jast Tech [Jast Tech](https://jast-tech.com/)<br>
 - Grade Arc [Grade Arc](https://gradearc.com/)<br>
 
 ### Reach Out on:
