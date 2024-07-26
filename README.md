@@ -1,7 +1,7 @@
 ### NTAGUNGIRA ALI
 ---------------------------------------------------------------------------------------
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
-I am a fullstack web developer(Backend Heavy). I am proficient in JavaScript and its frameworks like Nest, and I use them in my projects daily; I am also competent in Java and Springboot(SpringMVC) framework.
+I am a fullstack web developer(Backend Heavy). I am proficient in JavaScript and its frameworks(React.js, Next.js, Node.js, Nest.js), and I use them in my projects daily; I am also competent in Java and Springboot(SpringMVC) framework.
 
 - 🌱 I’m learning about A.I especially focusing on Large Language Models(LLM's)
 - ⚡ Hobby: I enjoy Gaming 🎮
